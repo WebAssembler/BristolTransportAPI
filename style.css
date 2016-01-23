@@ -1,0 +1,6 @@
+#map { height: 600px;}
+
+html, body, input, select, textarea
+{
+	font-size: 1.05em !important;
+}
